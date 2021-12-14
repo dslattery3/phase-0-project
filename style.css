@@ -1,6 +1,15 @@
-head {
-    background: whitesmoke;
-}
 body{
     background-image: url(./images/atlas-not-copyright.jpg);
+    background-size: 1900px;
+    width: 1850px;
+    height: 1900px;
+}
+h1 {
+    background: rgb(255,255,255,0.5);
+    text-align: center;
+}
+p {
+    background-color: rgb(248, 213, 149, 0.5) ;
+    color: black;
+    text-align: left;
 }
